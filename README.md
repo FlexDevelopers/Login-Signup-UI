@@ -42,7 +42,7 @@ Welcome to the blazing-fast and beautifully styled **Login/Signup UI** built wit
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/login-signup-ui.git
+git clone [https://github.com/yourusername/login-signup-ui.git](https://github.com/FlexDevelopers/Login-Signup-UI.git)
 cd login-signup-ui
 
 # Install dependencies
