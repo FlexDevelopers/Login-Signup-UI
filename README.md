@@ -4,12 +4,12 @@
 
 Welcome to the blazing-fast and beautifully styled **Login/Signup UI** built with modern web tools and insane UI polish.
 
-![Preview](your-live-preview-image-url.png)
+![Preview](https://media-hosting.imagekit.io/db90a6296fe940df/575bc8e1-91f3-49f0-af76-eabea497df36.png?Expires=1841650549&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ioq1JaTY85~VRTYll3UBhvxEkLzTG5Z4P2fzFfKTWemaOeqpp4nXWBOCcxFIDu9G3lrqrmOXpf8HZVKQE9x7UXmewlq3IJKjJM30GMjNuK2FQRxpCTjnk-EVy4mhGfUJWsebEB-npCj~ZRd3BzN1fB37WViZGdCvYsx2fPD0zy6vFE8T~mQW9gc2~FC802UtkfVQIdNwWiT8vCVvoK-x3h0-GdhVTFG3oqLNN2dZe-FezThybE7ipOZyPRsBhf~g7mA70RtfsAwGnbsBLeNMYupgAGUXEyNkihCKO7YZvo24I8JVltXy1NiyIVUAk8GFMGXJ6xxN0Y7mNAlngH91bw__)
 
 ---
 
 ## 🚀 Live Preview  
-[**Click to View Live Demo**](https://your-live-demo-link.com)
+[**Click to View Live Demo**](https://login-signup-ui-eight.vercel.app/)
 
 ## 📢 Join Our Telegram  
 [**@DevFlexChannel**](https://t.me/DevFlexChannel) – Connect, share, and grow with our dev community!
