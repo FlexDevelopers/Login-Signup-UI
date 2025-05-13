@@ -12,7 +12,7 @@ Welcome to the blazing-fast and beautifully styled **Login/Signup UI** built wit
 [**Click to View Live Demo**](https://login-signup-ui-eight.vercel.app/)
 
 ## 📢 Join Our Telegram  
-[**@DevFlexChannel**](https://t.me/DevFlexChannel) – Connect, share, and grow with our dev community!
+[**@DevFlexChannel**](https://t.me/FlexDevelopers) – Connect, share, and grow with our dev community!
 
 ---
 
